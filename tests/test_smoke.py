@@ -3,3 +3,6 @@ def test_addition():
 
 def test_string_upper():
     assert "qa".upper() == "QA"
+
+def test_list_length():
+    assert len([1, 2, 3])  == 3
