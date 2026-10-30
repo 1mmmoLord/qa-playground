@@ -9,3 +9,5 @@ qa-playground/
 ├── requirements.txt
 ├── src/          # Клиенты, Page Objects и вспомогательные модули
 └── tests/        # Тестовые сценарии (например, test_smoke.py
+
+
