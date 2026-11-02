@@ -77,7 +77,7 @@
 - Transition - a change from one state to another
 - Action - what the system does after an event
 
-**Types of coverage:
+**Types of coverage:**
 
 - State coverage - checking that every state is visited
 - Transition Coverage - checking that every calid transition is tested
@@ -86,4 +86,4 @@
 - Valid Transition - a state change allowed by the requirements
 - Invalid Transition - a state change that is not allowed by the requirements
 
-**Main goal: Find errors in how the system changes its state after different events.
+**Main goal: Find errors in how the system changes its state after different events.**
