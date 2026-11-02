@@ -65,3 +65,25 @@
 **Преимущество:** помогает находить пропущенные комбинации условий и систематизировать тестирование бизнес-логики.
 
 **Ограничение:** при большом количестве условий количество комбинаций быстро увеличивается.
+
+## State Transition Testing
+
+- State transition testing - a test design technique used when system behaviour depends on its current state or previous actions.
+
+**Main terms:**
+
+- State - the current condition of the system
+- Event - smthg that happens and may change the state
+- Transition - a change from one state to another
+- Action - what the system does after an event
+
+**Types of coverage:
+
+- State coverage - checking that every state is visited
+- Transition Coverage - checking that every calid transition is tested
+- Invalid transition testing - checking that forbidden transitions are rejected
+
+- Valid Transition - a state change allowed by the requirements
+- Invalid Transition - a state change that is not allowed by the requirements
+
+**Main goal: Find errors in how the system changes its state after different events.
