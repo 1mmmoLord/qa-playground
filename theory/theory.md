@@ -87,3 +87,17 @@
 - Invalid Transition - a state change that is not allowed by the requirements
 
 **Main goal: Find errors in how the system changes its state after different events.**
+
+## Use Case Testing
+
+**Use case testing - test-design technique when you test full path(not individual functions)**
+
+**Elements of use case testing**
+- Actor - User who interact with the system
+- Use Case - User's goal
+- Preconditions - Conditions before starting
+- Main flow - Main successful scenario
+- Alternative flow - Alternative scenario
+- Exception flow - scenario with mistake
+- Postconditions - system's condition after completing scenario
+
