@@ -101,3 +101,21 @@
 - Exception flow - scenario with mistake
 - Postconditions - system's condition after completing scenario
 
+## Exploratory Testing
+
+**Exploratory testing - is an approach where test design, test execution, and learning happen simultaneously.**
+
+*Key Terms**
+- Test charter - defines the testing pool and scope
+- Test session - a time-boxed exploratory testing activity
+- Test notes - record actions, observations, and results
+- Test idea - a hypothesis or possible scenario to investigate
+- Defect - a deviation from expected behavior
+
+**Main Principles**
+- Learn about the application while testing
+- Design new tests based on observations 
+- Record important findings
+- Investigate unexpected behavior 
+- Report reproducible defects
+
