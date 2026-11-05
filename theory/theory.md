@@ -119,3 +119,16 @@
 - Investigate unexpected behavior 
 - Report reproducible defects
 
+## Risk-Based Testing
+
+**Risk-Based Testing - approach, when priority defines by risk level.**
+
+- Risk - potential problem 
+- Likelihood - probability of happens problem
+- Impact - severity of its consequences
+- Risk level - overall level of risk
+- Priority - order in which tests should be executed
+
+**Risk level = Likelihood * Impact**
+
+**Testing should prioritize areas with higher risk**
