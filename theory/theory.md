@@ -132,3 +132,19 @@
 **Risk level = Likelihood * Impact**
 
 **Testing should prioritize areas with higher risk**
+
+
+## Static Testing
+
+**Review - checking requirements, documentation or code**
+**Walkthrough - author explain all his job to other participant**
+**Technical review - technical testing stuff by specialists**
+**Inspection - formal review with defined roles and procedures**
+
+### Static vs Dynamic Testing
+
+- Static Testing — detects defects without executing code.
+- Dynamic Testing — detects defects by executing code.
+
+
+
